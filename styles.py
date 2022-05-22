@@ -4,10 +4,7 @@ import cv2
 
 
 def ultimate_style(step):
-    colors = ["red", "yellow", "cyan", "blue", "pink", "orange",
-              "black", "white", "green", "purple", "grey", "violet", "ivory", "coral", "brown", "teal", "tan",
-              "salmon", "lime", "gold", "aquamarine", "maroon", "orchid", "darkgrey", "darkgreen", "darkred",
-              "darkblue"]
+
 
     for x in range(36):
         # color_1 = colors[random.randint(0, len(colors) - 1)]
